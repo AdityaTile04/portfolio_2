@@ -36,11 +36,11 @@ const Contact = () => {
         "service_0phcp9k",
         "template_gzaw9wq",
         {
-          from_name: form.name, // `from_name` instead of `from` to avoid confusion
+          from_name: form.name, 
           to_name: "Aditya",
           from_email: form.email,
           to_email: "aditytile99@gmail.com",
-          message: form.message, // corrected to `form.message`
+          message: form.message, 
         },
         "2taKndW8KzUBki-J3"
       )
